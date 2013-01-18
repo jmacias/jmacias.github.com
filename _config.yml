@@ -3,3 +3,7 @@ permalink: '/:title'
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
+  
+name: Pure Thought Stuff
+description: My thoughts on Software development
+url: http://jmacias.github.com
