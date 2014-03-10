@@ -14,7 +14,7 @@ published: false
 >These issues certainly aren't covered in colleges and universitites. Where opotimization rergeres to tweaking up some search algorithm.
 
 
-That alone is the main reason why I am happy I read the book. As mentioned several time in the book, getting your application to ship is only half the battle. Your application still has to survive in the field, with integration points failing, high peak  of simultaneous users or slow responses from a third party web services. This book is packed with expirience and advices to make your application ready to survive "production". 
+That alone is the main reason why I am happy I read the book. As mentioned several time in the book, getting your application to ship is only half the battle. Your application still has to survive in the field, with failing integration points, high peak  of concurrent users or slow responses from a third party web services. This book is packed with expirience and advices to make your application ready to survive __"production"__. 
 
 
 ## Miscomceptions tackle by the book
