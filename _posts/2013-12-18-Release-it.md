@@ -4,7 +4,7 @@ title: On "Release it".
 published: true
 ---
 
-["Release It"][Release-it] by Michel Nigard has been forever in my to-read list, not until now I need it the most. With DevOps methodology rising, I ended up more involved
+["Release It"][Release-it] by Michael Nygard has been forever in my to-read list, not until now I need it the most. With DevOps methodology rising, I ended up more involved
  with the support of a production system that I also help develop. In that moment the Book was a mandatory read for me.
 
 ## What they do not teach in school.
