@@ -20,7 +20,7 @@ That alone is the main reason why I am happy I read the book. As mentioned sever
 ## Misconceptions tackle by the book
 
    * You need accept the fact that despite your best laid plans, bad things will happen.
-   * Realize that "Release 1.0" is not the end of the development project but the begining of the system's life on its own.
+   * Realize that "Release 1.0" is not the end of the development project but the beginning of the system's life on its own.
 
 ### Patterns and Antipatterns for Production ready software
 
