@@ -9,9 +9,9 @@ published: true
 
 ## What they do not teach in school.
 
->Statistics gurantee that the majority of programmers have nerver worked on really large, mission-critical software.  First, salary surveys consistently show that most programmers have less than ten years of experience. Second the histogram of project sizes is heavely weighted toward the smaller end of te scale. So, take a young population with the relatively few opportunities to work on a giant projects, and it's not surprice that experience at that level is hard to find. 
+>Statistics gurantee that the majority of programmers have nerver worked on really large, mission-critical software.  First, salary surveys consistently show that most programmers have less than ten years of experience. Second the histogram of project sizes is heavely weighted toward the smaller end of the scale. So, take a young population with the relatively few opportunities to work on a giant projects, and it's not surprice that experience at that level is hard to find. 
 >
->These issues certainly aren't covered in colleges and universitites. Where opotimization rergeres to tweaking up some search algorithm.
+>These issues certainly aren't covered in colleges and universities. Where optimization regards to tweaking up some search algorithm.
 
 
 That alone is the main reason why I am happy I read the book. As mentioned several time in the book, __getting your application to ship is only half the battle__. Your application still has to survive in the field, with failing integration points, high peak  of concurrent users or slow responses from a third party web services. This book is packed with expirience and advices to __make your application ready to survive "production"__. 
