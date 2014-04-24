@@ -9,4 +9,4 @@ Pieter Hintjens explains the basic techniques for building very large distribute
 
 http://www.infoq.com/presentations/zeromq-techniques
 
-[Conways_law]: http://pragprog.com/book/mnee/release-it "Release it by Michael Nigard"
+[Conways_law]: http://en.wikipedia.org/wiki/Conway's_law "Conway's law"
