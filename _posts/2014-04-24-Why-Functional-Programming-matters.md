@@ -39,6 +39,7 @@ Since this methis of evaluation runs f as little as possible, it is called __["l
 
 
 http://debasishg.blogspot.com/2010/05/laziness-in-clojure-some-thoughts.html
+http://www.braveclojure.com/core-functions-in-depth/
 
 
 
