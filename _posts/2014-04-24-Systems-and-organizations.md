@@ -7,6 +7,6 @@ published: true
 
 Pieter Hintjens explains the basic techniques for building very large distributed systems using fast asynchronous messaging in general. He explains how to build distributed systems and the need of an organizational change must exist to support it.
 
-(Zero MQ Techniques)(http://www.infoq.com/presentations/zeromq-techniques)
+[Distribution, Scale and Flexibility with ZeroMQ](http://www.infoq.com/presentations/zeromq-techniques)
 
 [Conways_law]: http://en.wikipedia.org/wiki/Conway's_law "Conway's law"
