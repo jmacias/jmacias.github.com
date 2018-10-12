@@ -4,7 +4,7 @@ title: Notes on "How to Measure Anything"
 published: true
 ---
 
-My notes on the audio-book [How to Measure Anything: Finding the Value of Intangibles in Business 3rd Edition](amazon)
+My notes on the audio-book [How to Measure Anything: Finding the Value of Intangibles in Business 3rd Edition][amazon]
 
 ## Lessons learned 
 
